@@ -14,3 +14,14 @@ tensorflow==2.9.1          <br>
 
 The '2022_July_Monday_23_20_51.h5' and '2022_July_Monday_23_20_51.npy' are model and history files that can be load again.
 </p>
+
+
+## Gradient Descent Method
+<p>
+  Gradient_descent_from_scratch.ipynb file shows step-by-step implementation of gradient descent method with mathematical expression.
+  </p>
+  
+ ## Exploratory Data Analysis
+ <p>
+  Exploratory_Data_Analysis.ipynb file shows various steps of exploratory data analysis technique.
+ </p> 
