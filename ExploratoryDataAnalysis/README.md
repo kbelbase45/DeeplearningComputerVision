@@ -1,5 +1,3 @@
 # Exploratory Data Analysis
 
-<p> Here I try to provide as much detail as possible for exploratory data analysis. Of course, this material is
-not yet exhausted but help to understand the basic concept in this area. Also, I tried to explain manually how 
-the built-in function calculates some statistical properties.</p>
+<p> The notebook tries to provide as many details as possible for the exploratory data analysis. Of course, this material is not exhausted, but it will help to understand the basic concept in this area. There is also information explaining how the built-in function calculates some statistical properties manually. In addition, a machine learning approach using a linear model is used. </p>
